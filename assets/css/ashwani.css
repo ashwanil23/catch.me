@@ -13605,14 +13605,14 @@ pre .code {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 0px;
-  padding: 12px 24px;
-  font-size: 18px;
+  gap: 2px;
+  padding: 5px 14px;
+  font-size: 12px;
   font-weight: bold;
   color: #fff;  
   background: #695aa6; 
   border: none;
-  border-radius: 50px;
+  border-radius: 10px;
   text-decoration: none;
   cursor: pointer;
   position: relative;
@@ -13622,7 +13622,7 @@ pre .code {
 
 .arrow {
   display: inline-block;
-  font-size: 24px;
+  font-size: 20px;
   animation: bounce 1.5s infinite;
 }
 
